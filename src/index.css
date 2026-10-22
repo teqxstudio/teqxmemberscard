@@ -1,0 +1,26 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --brand-blue: #0B63CE;
+    --brand-ink: #231F20;
+    --brand-mist: #EAF1FB;
+  }
+}
+
+.font-archivo-black {
+  font-family: 'Archivo Black', sans-serif;
+}
+
+.font-archivo {
+  font-family: 'Archivo', sans-serif;
+}
+
+.font-manrope {
+  font-family: 'Manrope', sans-serif;
+}
+
+/* Custom range input styling */
+input[type="range"] {
+  accent-color: #0B63CE;
+}

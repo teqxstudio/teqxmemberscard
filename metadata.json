@@ -1,0 +1,6 @@
+{
+  "name": "Teqx Studio Founder Card Maker",
+  "description": "Official founder card generator for Teqx Studio with dynamic canvas rendering, custom photo positioning, brand typography, and export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
